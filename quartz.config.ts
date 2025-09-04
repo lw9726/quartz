@@ -8,8 +8,8 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "唐诗宋词知识图谱",
-    pageTitleSuffix: " - 中华古典诗词",
+    pageTitle: "综合知识图谱",
+    pageTitleSuffix: " - 多领域知识网络",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
