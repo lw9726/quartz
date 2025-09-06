@@ -2,8 +2,6 @@
 title: Neo4j知识图谱 - 宏观蓝图
 ---
 
-# Neo4j知识图谱 - 宏观蓝图
-
 ## 核心概念
 - [[001-核心概念-Model Context Protocol (MCP)]]
 - [[002-核心概念-Graph Data Modeling]]
