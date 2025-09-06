@@ -21,3 +21,7 @@ title: Neo4j知识图谱
 - [[012-核心流程-End-To-End Developer Flow]]
 - [[013-核心流程-Data Modeling Process]]
 - [[014-核心流程-Data Ingestion Process]]
+
+## 其他内容
+- [[neo4jexplore-the-neo4j-data-modeling-mcp-server]]
+
