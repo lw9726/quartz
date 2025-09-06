@@ -45,12 +45,13 @@ find_blueprint_file() {
     )
     
     for pattern in "${patterns[@]}"; do
-        local found_files=($(find "$folder" -maxdepth 1 -name "$pattern" -type f 2>/dev/null))
-        if [[ ${#found_files[@]} -gt 0 ]]; then
-            # 返回第一个找到的文件（去掉路径，只保留文件名）
-            basename "${found_files[0]}"
-            return 0
-        fi
+        # 使用find并正确处理特殊字符
+        while IFS= read -r -d '' file; do
+            if [[ -f "$file" ]]; then
+                basename "$file"
+                return 0
+            fi
+        done < <(find "$folder" -maxdepth 1 -name "$pattern" -type f -print0 2>/dev/null)
     done
     
     return 1
