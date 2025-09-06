@@ -1,6 +1,8 @@
+---
 tags:
   - neo4j
   - 核心概念
+---
 图数据建模（Graph data modeling）是识别数据中的实体并用关系将它们连接起来的过程。
 > Graph data modeling consists of identifying entities within your data and connecting them with relationships. Both entities and relationships may also have properties that provide additional information.
 

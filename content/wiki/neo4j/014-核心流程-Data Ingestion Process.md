@@ -1,6 +1,8 @@
+---
 tags:
   - neo4j
   - 核心流程
+---
 数据导入流程是将经过验证的数据模型和原始数据加载到 Neo4j 数据库中的过程。
 > The MCP server also exposes a resource that lays out the process of ingesting data into Neo4j so you can use the Data Modeling MCP server in combination with other ingestion tools.
 

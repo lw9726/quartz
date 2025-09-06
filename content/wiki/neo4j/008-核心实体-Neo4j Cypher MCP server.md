@@ -1,6 +1,8 @@
+---
 tags:
   - neo4j
   - 核心实体
+---
 Neo4j Cypher MCP server 是一个实现了模型上下文协议（MCP）的服务器，它允许AI代理执行 Cypher 查询。
 > ...optionally, the Neo4j Cypher MCP server for loading and querying the resulting graph.
 

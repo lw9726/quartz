@@ -1,6 +1,8 @@
+---
 tags:
   - neo4j
   - 核心实体
+---
 Survivor Borneo Wiki 是一个包含了关于《幸存者：婆罗洲》这一季节目详细信息的网站，被用作本文示例中的数据来源。
 > The data models below were generated from the Survivor Borneo Wiki.
 

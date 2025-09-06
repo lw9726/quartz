@@ -1,6 +1,8 @@
+---
 tags:
   - neo4j
   - 核心概念
+---
 Mermaid 是一种使用文本和代码创建图表和可视化的工具。
 > The MCP server also provides a tool that generates a configuration you can use to create a Mermaid diagram of the data model. Many MCP clients support Mermaid diagrams, so this is useful for quickly visualizing and understanding your data models.
 

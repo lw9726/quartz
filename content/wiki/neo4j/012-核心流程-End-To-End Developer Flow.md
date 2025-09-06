@@ -1,6 +1,8 @@
+---
 tags:
   - neo4j
   - 核心流程
+---
 端到端开发流程描述了使用 MCP 服务器进行图应用开发的通用过程。
 > There’s a common process when an agent is using the Data Modeling MCP server for development. This process includes some data discovery within the client application and, optionally, the Neo4j Cypher MCP server for loading and querying the resulting graph.
 

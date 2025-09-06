@@ -1,6 +1,8 @@
+---
 tags:
   - neo4j
   - 核心实体
+---
 Neo4j Data Modeling MCP server 是一个实现了模型上下文协议（MCP）的服务器，专门用于辅助 Neo4j 的图数据建模。
 > This blog details how you can use the Neo4j Data Modeling MCP server to generate graph data models for your Neo4j-backed applications.
 

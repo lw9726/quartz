@@ -1,6 +1,8 @@
+---
 tags:
   - neo4j
   - 核心概念
+---
 Cypher 是 Neo4j 的查询语言。
 > The MCP server also provides tools that generate Cypher code to ingest data according to the data model. This code includes the necessary indexes and constraints, as well as the code for ingesting nodes, relationships, and properties.
 

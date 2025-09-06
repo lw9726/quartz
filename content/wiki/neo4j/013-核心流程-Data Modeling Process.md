@@ -1,6 +1,8 @@
+---
 tags:
   - neo4j
   - 核心流程
+---
 数据建模流程是指在AI代理的辅助下，创建、验证和迭代图数据模型的过程。
 > Once the agent analyzes the data and understands your use cases, it can begin the modeling process.
 

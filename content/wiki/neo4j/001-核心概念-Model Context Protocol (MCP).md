@@ -1,6 +1,8 @@
+---
 tags:
   - neo4j
   - 核心概念
+---
 Model Context Protocol (MCP) 是一种为代理（agents）提供标准化工具访问的强大方式。
 > MCP provides a powerful way for agents to easily gain access to standardized tooling. It’s a protocol that defines how applications can provide context in the form of tools, resources, and prompts to an LLM.
 

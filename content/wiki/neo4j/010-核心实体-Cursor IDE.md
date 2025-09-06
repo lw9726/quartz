@@ -1,6 +1,8 @@
+---
 tags:
   - neo4j
   - 核心实体
+---
 Cursor IDE 是一个与模型上下文协议（MCP）兼容的客户端应用程序。
 > There are many MCP-compatible clients, such as Claude Desktop and the Cursor IDE.
 
