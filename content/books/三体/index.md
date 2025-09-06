@@ -2,9 +2,12 @@
 title: 三体三部曲
 ---
 
+<meta http-equiv="refresh" content="0; url=./%E4%B8%89%E4%BD%93-%E5%AE%8F%E8%A7%82%E8%93%9D%E5%9B%BE">
 <script>
-// 自动跳转到宏观蓝图页面
-window.location.href = "./%E4%B8%89%E4%BD%93-%E5%AE%8F%E8%A7%82%E8%93%9D%E5%9B%BE";
+// 备用JavaScript跳转（如果meta refresh不工作）
+setTimeout(function() {
+    window.location.href = './%E4%B8%89%E4%BD%93-%E5%AE%8F%E8%A7%82%E8%93%9D%E5%9B%BE';
+}, 100);
 </script>
 
 **正在跳转到三体三部曲宏观蓝图...**
