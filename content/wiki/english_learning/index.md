@@ -2,16 +2,11 @@
 title: English Learning
 ---
 
-## 核心概念
-- [[001-核心概念-翻译脑]]
-- [[002-核心概念-英语脑]]
-- [[003-核心概念-语境]]
-- [[004-核心概念-中英对等词]]
+<script>
+// 自动跳转到宏观蓝图页面
+window.location.href = "./english_learning-宏观蓝图";
+</script>
 
-## 宏观蓝图
-- [[english_learning-宏观蓝图]]
+**正在跳转到English Learning宏观蓝图...**
 
-## 其他内容
-- [[005-核心方法-行为机制重塑]]
-- [[006-核心方法-建立直接连接]]
-
+如果没有自动跳转，请点击：[English Learning - 宏观蓝图](./english_learning-宏观蓝图)

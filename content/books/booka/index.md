@@ -2,24 +2,11 @@
 title: Graph Data Science with Neo4j
 ---
 
-## 宏观蓝图
-- [[booka-宏观蓝图]]
+<script>
+// 自动跳转到宏观蓝图页面
+window.location.href = "./booka-宏观蓝图";
+</script>
 
-## 核心概念
-- [[004-核心概念-Graph Data Modeling]]
-- [[005-核心概念-Machine Learning (ML)]]
-- [[006-核心概念-Graph Data Science]]
-- [[007-核心概念-Network Analytics]]
-- [[008-核心概念-Systems Biology]]
-- [[009-核心概念-Natural Language Processing]]
-- [[010-核心概念-Computer Vision]]
-- [[011-核心概念-Deep Learning]]
+**正在跳转到Graph Data Science with Neo4j宏观蓝图...**
 
-## 人物介绍
-- [[001-人物-Gary Hutson]]
-- [[002-人物-Matt Jackson]]
-- [[003-人物-Atul Kadlag]]
-
-## 组织机构
-- [[012-组织-Packt Publishing]]
-
+如果没有自动跳转，请点击：[Graph Data Science with Neo4j - 宏观蓝图](./booka-宏观蓝图)
