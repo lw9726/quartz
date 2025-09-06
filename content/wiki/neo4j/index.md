@@ -1,4 +1,8 @@
-# neo4j-宏观蓝图
+---
+title: Neo4j知识图谱 - 宏观蓝图
+---
+
+# Neo4j知识图谱 - 宏观蓝图
 
 ## 核心概念
 - [[001-核心概念-Model Context Protocol (MCP)]]
