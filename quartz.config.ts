@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: "umami",
       host: "https://umami.ut-info.win",
-      websiteId: "b35da2d0-135e-4a3c-9f19-084567a62ec1",
+      websiteId: "192eba03-abe9-44be-a0ef-58312b941efe",
     },
     locale: "zh-CN",
     baseUrl: "lw9726.github.io/quartz",
